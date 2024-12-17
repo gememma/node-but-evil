@@ -1,0 +1,10 @@
+{
+    "feature": {
+        "network": {
+            "incoming": true,
+            "outgoing": true
+        }
+    },
+    "operator": false,
+    "target": "deployment/py-serv-deployment"
+}
